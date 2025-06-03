@@ -10,13 +10,21 @@ We use 4 colours, none of which are pure black
 
 ## Typography
 We use the TT Supermolot family of fonts for headings, subheadings and body text. When designing in Canva use the following:
-- Headings: TT Supermolot Neue with size 80 font, -20 letter spacing, and 1 line spacing
-- Subheadings: TT Supermolot Condensed with size 40 font, -10 letter spacing, and 1 line spacing
-- Body Text: TT Supermolot Condensed with size 25 font, -5 letter spacing and 1 line spacing
+- Headings: TT Supermolot Neue with size 80 font, -20 letter spacing, and 1 line spacing.
+- Subheadings: TT Supermolot Condensed with size 40 font, -10 letter spacing, and 1 line spacing.
+- Body Text: TT Supermolot Condensed with size 25 font, -5 letter spacing and 1 line spacing.
 
 ## Logos
 We have 3 different logos, used for different purposes.
 - Head-Black: Our main head icon on a black background, for use across social media platforms for the profile picture.
-- Head-Transparent: A transparent version of our head icon, for use on marketing/promotional material to reinforce club branding
-- Logo-Text: The text version of our logo with the text QUT AI & ML Society, for use in banners and horizontal formats that require a larger logo
-- Logo-Full: Our full logo with the head icon and the full text, for use on material where our club would be introduced to a new audience
+- Head-Transparent: A transparent version of our head icon, for use on marketing/promotional material to reinforce club branding.
+- Logo-Text: The text version of our logo with the text QUT AI & ML Society, for use in banners and horizontal formats that require a larger logo.
+- Logo-Full: Our full logo with the head icon and the full text, for use on material where our club would be introduced to a new audience.
+
+## Marketing Materials
+We have different mottos or taglines that accompany our posts based on their content.
+- "Empowering the Future Through AI & Machine Learning" is the motto for QUT AMS as a whole and summarises our objective as a club.
+- "Fuel Your Mind with Project Nights: Learn, Build, Innovate" is the tagline for our Project Nights.
+- "Bridge the Gap to the Real World: Listen, Learn, Level Up" is the tagline for our Industry Talks.
+- "Power Up Your Focus: Study, Support, Succeed" is the tagline for our Study Nights.
+- "Connect Through Conversation: Relax, Laugh, Belong" is the tagline for our Social Games Nights.
